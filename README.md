@@ -10,11 +10,19 @@
 <!-- 메인 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6c459c&fontColor=ffffff&height=300&text=JJANG%20DEUK&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
 
-<h3 style="text-align : center;"> 🙌Introduce🙌 </h3>
-
-<b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>
-
-Tistory : https://timradder.tistory.com
+<div align=center>
+      <h3> 🙌 Introduce 🙌 </h3>
+      <b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>
+      <br>
+      <h3> ✍ Tech Stack ✍ </h3>
+      <b> Python, Kotlin </b><br>
+      <h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
+      Github : github.com/Jae-wan <br>
+      Blog : https://timradder.tistory.com <br>
+      Email : chlcjw3@naver.com <br>
+</div>
+<br>
+<br>
 
 <!-- github 커밋 수 등 통계 --> <!-- most used languages -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-wan&show_icons=true&text_color=ffffff&theme=material-palenight&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
