@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
       ## 참고한 사이트##
 메인 배너 : https://github.com/kyechan99/capsule-render
@@ -14,11 +12,13 @@
 <!-- Visitor -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<h2> 안녕하세요. 코틀린 네이티브 언어로 안드로이드 앱 개발 직무로 취직을 준비중입니다. </h2>
 
-<!-- github 커밋 수 등 통계 -->
+<b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>
+
+Tistory : https://timradder.tistory.com
+
+<!-- github 커밋 수 등 통계 --> <!-- most used languages -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-wan&show_icons=true&text_color=ffffff&theme=material-palenight&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- most used languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jae-wan&border_color=ffffff&title_color=c792ea&text_color=ffffff&bg_color=292d3e&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
