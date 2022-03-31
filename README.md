@@ -31,7 +31,11 @@
 
 
 <!-- Visitor -->
+<div align=center>
+      
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
 
 <!--
 **Jae-wan/Jae-wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
