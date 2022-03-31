@@ -9,9 +9,8 @@
 
 <!-- 메인 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6c459c&fontColor=ffffff&height=300&text=JJANG%20DEUK&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
-<!-- Visitor -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
+<h3 style="text-align : center;"> 🙌Introduce🙌 </h3>
 
 <b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>
 
@@ -23,7 +22,8 @@ Tistory : https://timradder.tistory.com
 
 
 
-
+<!-- Visitor -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <!--
 **Jae-wan/Jae-wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
