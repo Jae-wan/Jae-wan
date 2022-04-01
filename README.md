@@ -11,16 +11,28 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=6c459c&fontColor=ffffff&height=300&text=JJANG%20DEUK&fontSize=65&animation=fadeIn&rotate=19&fontAlign=66&fontAlignY=40)
 
 <div align=center>
-      <h3> 🙌 Introduce 🙌 </h3>
-      <b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>
-      <br>
-      <h3> ✍ Tech Stack ✍ </h3>
-      <b> Python, Kotlin </b><br>
-      <h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
-      Github : github.com/Jae-wan <br>
-      Blog : https://timradder.tistory.com <br>
-      Email : chlcjw3@naver.com <br>
-</div>
+<h3> 🙌 Introduce 🙌 </h3>
+<b> 안녕하세요 최재완입니다. 코틀린 네이티브 언어를 활용한 안드로이드 앱 개발 직무로의 취직을 준비중입니다. </b>    
+<br>
+<br>
+      
+<h3> ✍ Tech Stack ✍ </h3> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=plastic&logo=Kotlin&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=plastic&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic&logo=CSS3&logoColor=white"/>
+      
+<br>
+      
+<img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=plastic&logo=AdobePremierePro&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?&style=plastic&logo=Adobe Photoshop&logoColor=white"/>
+      
+<br>
+
+<h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
+<a href="https://github.com/Jae-wan"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>
+<a href="https://timradder.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFBC36.svg?&style=plastic&logo=Tistory&logoColor=white"/>
+<a href="www.notion.so/jjangdeuk"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=plastic&logo=Notion&logoColor=white"/> <br>
+<br>
+Email : chlcjw3@naver.com <br>
+      
+
+
 <br>
 <br>
 
@@ -30,9 +42,8 @@
 
 
 
-<!-- Visitor -->
-<div align=center>
 
+<!-- Visitor -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJae-wan%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
