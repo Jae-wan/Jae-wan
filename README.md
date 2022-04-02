@@ -3,7 +3,9 @@
 메인 배너 : https://github.com/kyechan99/capsule-render
 각종 뱃지 : Shields.io 랑 Simple Icons 참고해서 뱃지, 뱃지아이콘 넣어줘야함
 방문자 수 뱃지 : https://hits.seeyoufarm.com/
-통계 카드 https://github.com/anuraghazra/github-readme-stats
+통계 카드 : https://github.com/anuraghazra/github-readme-stats
+백준 티어 : https://github.com/mazassumnida/mazassumnida
+                  => 백준은 왜 안되는걸까..
 
 -->
 
