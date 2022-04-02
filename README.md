@@ -22,16 +22,18 @@
       
 <img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=plastic&logo=AdobePremierePro&logoColor=white"/> <img alt="Adobe Photoshop" src ="https://img.shields.io/badge/AdobePhotoshop-31A8FF.svg?&style=plastic&logo=Adobe Photoshop&logoColor=white"/>
       
-<br>
-
-<h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
-<a href="https://github.com/Jae-wan"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>
-<a href="https://timradder.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFBC36.svg?&style=plastic&logo=Tistory&logoColor=white"/>
-<a href="www.notion.so/jjangdeuk"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=plastic&logo=Notion&logoColor=white"/> <br>
-<br>
-Email : chlcjw3@naver.com <br>
+<h3> 🙄 A little bit... 🙄 </h3> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=plastic&logo=JavaScript&logoColor=white&"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=plastic&logo=React&logoColor=white"/>  
       
+<br>
+      
+<h3> 🐱‍🏍 I've used.. 🐱‍🏍 </h3>
+<a href="https://github.com/Jae-wan"><img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+<a href="https://timradder.tistory.com"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-FFBC36.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+<a href="www.notion.so/jjangdeuk"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <br>
 
+<br>
+
+Email : chlcjw3@naver.com <br>
 
 <br>
 <br>
@@ -46,6 +48,14 @@ Email : chlcjw3@naver.com <br>
 <!-- Visitor -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJae-wan%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={chlcjw3@naver.com})](https://solved.ac/{chlcjw3@naver.com})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chlcjw3@naver.com})](https://solved.ac/{chlcjw3@naver.com})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3@naver.com)](https://solved.ac/chlcjw3@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3)
+
+      
 </div>
 
 <!--
