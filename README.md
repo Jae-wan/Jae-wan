@@ -41,6 +41,8 @@ Email : chlcjw3@naver.com <br>
 <!-- github 커밋 수 등 통계 --> <!-- most used languages -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jae-wan&show_icons=true&text_color=ffffff&theme=material-palenight&border_radius=20&line_height=40&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jae-wan&border_color=ffffff&title_color=c792ea&text_color=ffffff&bg_color=292d3e&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3)
 
 
 
@@ -48,12 +50,8 @@ Email : chlcjw3@naver.com <br>
 <!-- Visitor -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJae-wan%2Fhit-counter&count_bg=%23669145&title_bg=%2344A832&icon=android.svg&icon_color=%23F5F5F5&title=Visitor&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj={chlcjw3@naver.com})](https://solved.ac/{chlcjw3@naver.com})
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chlcjw3@naver.com})](https://solved.ac/{chlcjw3@naver.com})
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3@naver.com)](https://solved.ac/chlcjw3@naver.com/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3/)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlcjw3)](https://solved.ac/chlcjw3)
+      
+
 
       
 </div>
